@@ -1,0 +1,6 @@
+C:\Users\Margulan\source\repos\hw_24122018\hw_24122018\bin\Debug\hw_24122018.exe
+C:\Users\Margulan\source\repos\hw_24122018\hw_24122018\bin\Debug\hw_24122018.pdb
+C:\Users\Margulan\source\repos\hw_24122018\hw_24122018\obj\Debug\hw_24122018.csprojResolveAssemblyReference.cache
+C:\Users\Margulan\source\repos\hw_24122018\hw_24122018\obj\Debug\hw_24122018.csproj.CoreCompileInputs.cache
+C:\Users\Margulan\source\repos\hw_24122018\hw_24122018\obj\Debug\hw_24122018.exe
+C:\Users\Margulan\source\repos\hw_24122018\hw_24122018\obj\Debug\hw_24122018.pdb
